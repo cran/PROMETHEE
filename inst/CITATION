@@ -1,0 +1,39 @@
+citHeader("Please cite PROMETHEE package as:")
+
+citEntry(entry = "Article",
+  title        = "Visual management of performance with PROMETHEE productivity analysis",
+  author       = personList(as.person("Alessio Ishizaka"),
+                   as.person("Giuliano Resce"),
+                   as.person("Bertrand Mareschal")),
+  journal      = "Soft Computing",
+  year         = "2018",
+  volume       = "22",
+  pages        = "7325-7338",
+
+  textVersion  =
+  paste("Ishizaka, A., Resce, G. Mareschal, B. (2018)",
+        "Visual management of performance with PROMETHEE productivity analysis",
+        "Soft Computing",
+        "Vol. 22, pp. 7325-7338")
+)
+
+
+citEntry(entry = "Article",
+  title        = "On the Methodological Framework of Composite Indices: A Review of the Issues of Weighting, Aggregation, and Robustness",
+  author       = personList(as.person("Salvatore Greco"),
+                   as.person("Alessio Ishizaka"),
+                   as.person("Menelaos Tasiou"),
+                   as.person("Gianpiero Torrisi")),
+  journal      = "Social Indicators Research",
+  year         = "2018",
+  volume       = "",
+  pages        = "1-34",
+
+  textVersion  =
+  paste("Greco, S., Ishizaka, A., Tasiou, M., & Torrisi, G. (2018)",
+        "On the methodological framework of composite indices: A review of the issues of weighting, aggregation, and robustness",
+        "Social Indicators Research",
+        "pp. 1-34")
+)
+
+
