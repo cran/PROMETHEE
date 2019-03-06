@@ -2,8 +2,8 @@ Package: PROMETHEE
 Type: Package
 Title: Preference Ranking Organization METHod for Enrichment of
         Evaluations
-Version: 1.0
-Date: 2018-10-23
+Version: 1.1
+Date: 2019-03-04
 Author: Giuliano Resce, Menelaos Tasiou, Francesco Vidoli
 Maintainer: Francesco Vidoli <fvidoli@gmail.com>
 Description: Functions which can be used to support the Multicriteria Decision Analysis (MCDA) process 
@@ -11,7 +11,8 @@ Description: Functions which can be used to support the Multicriteria Decision A
 License: GPL-3
 Suggests: R.rsp
 VignetteBuilder: R.rsp
+Imports: lpSolve
 NeedsCompilation: no
-Packaged: 2018-10-31 08:13:45 UTC; Lenovo_Cri
+Packaged: 2019-03-06 09:41:38 UTC; Fra
 Repository: CRAN
-Date/Publication: 2018-11-03 17:40:06 UTC
+Date/Publication: 2019-03-06 10:30:02 UTC

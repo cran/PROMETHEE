@@ -14,7 +14,7 @@
   \item{PreferenceT}{A matrix with preference thresholds (alternatives by row and criteria by column)}
   \item{IndifferenceT}{A matrix with indifference thresholds (alternatives by row and criteria by column)}
   \item{Weights}{A matrix with weights (alternatives by row and criteria by column)}
-  \item{Min_Max}{A matrix that specifies whether the criteratum should be maximized or nimimized (alternatives by row and criteria by column)}
+  \item{Min_Max}{A matrix that specifies whether the criteratum should be maximized or minimized (alternatives by row and criteria by column)}
   \item{S_Gauss}{A matrix with S Gaussians (alternatives by row and criteria by column)}  
 }
 
